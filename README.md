@@ -57,15 +57,21 @@
 
 <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge"/>
 
+
 <img src="https://img.shields.io/badge/RTL-Design-0A66C2?style=for-the-badge"/>
+
 
 <img src="https://img.shields.io/badge/ASIC-Design-purple?style=for-the-badge"/>
 
+
 <img src="https://img.shields.io/badge/FPGA-Development-darkgreen?style=for-the-badge"/>
+
 
 <img src="https://img.shields.io/badge/SystemVerilog-Learning-red?style=for-the-badge"/>
 
+
 <img src="https://img.shields.io/badge/UVM-Learning-orange?style=for-the-badge"/>
+
 
 </div>
 
