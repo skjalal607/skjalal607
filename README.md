@@ -123,8 +123,15 @@
 </div>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skjalal607/skjalal607/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 ---
+
 
 
 # 📈 Contribution Graph
