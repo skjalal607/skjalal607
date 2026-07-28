@@ -113,9 +113,13 @@
 ## 🚀 Direct-Mapped Cache Controller
 
 ✔ Verilog HDL
+
 ✔ Cache Hit/Miss Logic
+
 ✔ Memory Interface
+
 ✔ Tag Comparison
+
 ✔ RTL Simulation
 
 ---
