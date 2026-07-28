@@ -2,7 +2,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:090B18,40:182848,70:4A00E0,100:00F5FF&text=SK%20JALAL%20UDDIN&fontColor=FFFFFF&fontSize=55&animation=fadeIn&stroke=00F5FF&strokeWidth=2"/>  
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:090B18,40:182848,70:4A00E0,100:00F5FF&text=SK%20JALALUDDIN&fontColor=FFFFFF&fontSize=55&animation=fadeIn&stroke=00F5FF&strokeWidth=2"/>  
 </p>
       
 ###  ASIC Design | RTL Design | Design Verification | FPGA | Digital IC Engineer
