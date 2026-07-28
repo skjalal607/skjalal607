@@ -2,10 +2,10 @@
 <!-- ======================= HEADER ======================= -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Sk%20Jalal%20Uddin&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=38"/>
-
-### ⚡ ASIC Design | RTL Design | Design Verification | FPGA | Digital IC Engineer
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:090B18,40:182848,70:4A00E0,100:00F5FF&text=SK%20JALAL%20UDDIN&fontColor=FFFFFF&fontSize=55&animation=fadeIn&stroke=00F5FF&strokeWidth=2"/>  
+</p>
+      
+###  ASIC Design | RTL Design | Design Verification | FPGA | Digital IC Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineer;Passionate+about+Digital+IC+Design;RTL+Design+%7C+ASIC+%7C+FPGA;Verilog+HDL+Developer;Future+ASIC+Design+Engineer" />
 
