@@ -106,59 +106,23 @@
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-> *(Repositories will be linked after upload.)*
+<div align="center">
 
-## 🚀 Direct-Mapped Cache Controller
+| Project | Description | Repository |
+|:---|:---|:---:|
+| **Direct-Mapped Cache Controller** | Designed and implemented a direct-mapped cache controller with cache hit/miss detection, tag comparison, valid-bit logic, and memory interface using Verilog HDL. | <a href="https://github.com/skjalal607/DIRECT-MAPPED-CACHE-CONTROLLER-DESIGN-AND-IMPLEMENTATION-USING-VERILOG-HDL">🔗 View</a> |
+| **UART Communication System** | Implemented a UART Transmitter and Receiver with baud-rate generation and FSM-based architecture for reliable serial communication. | <a href="https://github.com/skjalal607/UART-Communication-System-using-Verilog-HDL">🔗 View</a> |
+| **Synchronous FIFO Memory** | Designed a parameterized synchronous FIFO featuring read/write pointer management, full/empty flag generation, and RTL verification. | <a href="https://github.com/skjalal607/Synchronous-FIFO-Memory-Design">🔗 View</a> |
+| **Decoder-Based RAM** | Developed a decoder-based RAM architecture in Verilog HDL for efficient address decoding and memory operations. | <a href="https://github.com/skjalal607/Decoder-Based-RAM">🔗 View</a> |
+| **Microstrip Patch Antenna (2.4 GHz)** | Designed and miniaturized a high-performance microstrip patch antenna at 2.4 GHz using CST Studio Suite for wireless communication applications. | <a href="https://github.com/skjalal607/Design-and-Miniaturization-of-Microstrip-Patch-Antenna-at-2.4-GHZ-using-CST-Studio">🔗 View</a> |
+| **Analog Earthquake Detection System** | Developed an analog-based earthquake detection system for real-time vibration sensing and emergency indication. | <a href="https://github.com/skjalal607/ANALOG-BASED-EARTHQUAKE-DETECTION-SYSTEM">🔗 View</a> |
+| **Smart Irrigation System** | Built an automated irrigation system using sensors and microcontroller technology to optimize water usage in agriculture. | <a href="https://github.com/skjalal607/SMART-IRRIGATION-SYSTEM">🔗 View</a> |
 
-✔ Verilog HDL
-
-✔ Cache Hit/Miss Logic
-
-✔ Memory Interface
-
-✔ Tag Comparison
-
-✔ RTL Simulation
-
----
-
-## 📡 UART Communication System
-
-✔ UART Transmitter
-
-✔ UART Receiver
-
-✔ Baud Rate Generator
-
-✔ FSM Design
-
-✔ Verilog HDL
+</div>
 
 ---
-
-## 📦 FIFO Memory Design
-
-✔ Synchronous FIFO
-
-✔ Read/Write Pointer
-
-✔ Full & Empty Detection
-
-✔ Parameterized Verilog Design
-
----
-
-## 📶 Compact Microstrip Patch Antenna
-
-✔ CST Studio Suite
-
-✔ High Gain Design
-
-✔ Bandwidth Optimization
-
-✔ Return Loss Optimization
 
 ---
 
@@ -168,18 +132,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=skjalal607&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> Enable this after creating the GitHub Action.
-
-![Snake animation](https://github.com/skjalal607/skjalal607/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
