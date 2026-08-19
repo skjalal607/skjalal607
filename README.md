@@ -88,7 +88,7 @@
 | Xilinx Vivado | ⭐⭐⭐⭐⭐ |
 | EDA Playground | ⭐⭐⭐⭐☆ |
 | CST Studio Suite | ⭐⭐⭐⭐☆ |
-| STM32 CUBE IDE | ⭐⭐⭐☆☆ |
+| STM32 CUBE IDE | ⭐⭐⭐⭐☆ |
 
 </div>
 
