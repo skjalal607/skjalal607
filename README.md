@@ -25,9 +25,9 @@
 ```text
 🎓 B.Tech in Electronics & Communication Engineering
 
-💻 Passionate about Digital IC Design and ASIC Development
+💻 Passionate about Digital IC Design, ASIC Development, Embedded System
 
-⚡ Interested in RTL Design, FPGA and Verification
+⚡ Interested in RTL Design, FPGA and Verification, PCB Design
 
 🔍 Currently seeking opportunities in
 
@@ -35,13 +35,15 @@
       • RTL Design
       • Design Verification
       • FPGA Design
+      • PCB Design
 
 🌱 Currently Learning
 
-      • SystemVerilog
+      • System Verilog
       • UVM
       • ASIC Design Flow
       • Advanced Computer Architecture
+      • Embedded C/C++
 
 📍 Kalyani, Nadia, West Bengal, India
 ```
